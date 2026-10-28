@@ -20,7 +20,7 @@
 ```typescript
 const kaziNaeem = {
   title: "Front-End Developer",
-  stack: ["Frontend"],
+  stack: ["MERN"],
   launchedProjects: ["amazon-homepage-clone", "g3-architects-home-page"],
 };
 ```
